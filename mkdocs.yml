@@ -1,0 +1,15 @@
+site_name: Mein Projekt-Handbuch
+
+theme:
+  name: material  # Nutzt das moderne Material Design
+  language: de    # Stellt Suche und Labels auf Deutsch um
+
+# Die Navigation bestimmt die Reihenfolge in der Seitenleiste
+nav:
+  - Home: index.md
+  - Anforderungen: requirements.md
+  - Installation: setup.md
+
+# Nur Standard-Plugins aktiv
+plugins:
+  - search
