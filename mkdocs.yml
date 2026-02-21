@@ -7,8 +7,8 @@ theme:
 # Die Navigation bestimmt die Reihenfolge in der Seitenleiste
 nav:
   - Home: index.md
-  - Anforderungen: requirements.md
-  - Installation: setup.md
+  - Anforderungen: SRS.md
+  - Installation: some_file.md
 
 # Nur Standard-Plugins aktiv
 plugins:
