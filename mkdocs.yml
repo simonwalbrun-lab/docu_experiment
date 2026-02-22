@@ -9,7 +9,8 @@ nav:
   - Home: index.md
   - Anforderungen: SRS.md
   - Installation: some_file.md
+  - Experiment: Some Example REQs.md
 
 # Nur Standard-Plugins aktiv
 plugins:
-  - search
+  - search 
